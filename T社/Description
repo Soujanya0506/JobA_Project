@@ -1,0 +1,90 @@
+# Case Study T社: Precision Engineering Firm
+
+## Company Overview
+
+- **Industry**: Precision Manufacturing
+- **Location**: East Asia
+- **Founded**: 1975
+- **Employees**: about 75 as of 2024 (including part-time)
+
+## Core Business
+
+This company specializes in high-precision engineering and manufacturing of components for various industries. Their expertise includes:
+It is a global leader in shot peening media, holding over 40% of the world market share. The company focuses on innovative technologies in shot peening and related products.
+
+- Advanced machining techniques
+- Quality control systems
+- Custom component design
+- Shot peening
+- Hard shot peening
+- Shot blasting
+
+## Products and Services
+
+1. Precision mechanical parts
+2. Optical components
+3. Specialized industrial machinery
+4. Engineering consultation
+
+## Core Product: Conditioned Cut Wire Shot
+
+### Key Features
+1. High durability
+2. Uniform hardness and particle size
+3. Low breakage and dust production
+4. Wide hardness range (HV100-800)
+5. Unique high-hardness options
+
+### Environmental Impact
+- Contributes to better environment (ISO14001 compliant)
+- Reduces manufacturing time and costs
+
+### Product Range
+- Diameters up to 3.0mm
+- Custom sizes, hardness, and materials available on request
+
+## Unique Selling Points
+- World's only manufacturer of HV800 hardness shot media
+- Offers shot peening process and residual stress inspection services
+- Provides low hardness options (HV100-300) for reduced machine wear
+
+## Case Study: AI Camera Monitoring of Shot Peening Process
+
+### Overview
+- Implementation of AI camera system to monitor unmanned coil machine (Bobin) during shot peening process
+- Goal: Evaluate effectiveness of AI monitoring on reducing machine stoppage rates
+
+### Setup
+- 4 test cases
+- Each case involves approximately 30 Bobins
+- AI camera angle and location remain fixed throughout the study
+
+### Monitoring Parameters
+- **Working Hours**: ~8/9 AM to midnight
+- **Stop Definition**: Machine halts for more than 5 minutes during working hours
+
+### Objective
+Determine which case demonstrates the best performance of unmanned Bobins in the shot peening process for small coiled parts, given the fixed AI camera setup.
+
+### Data Collection
+- Monitor and record stop rates for each case
+- Compare performance across all 4 cases
+
+### Expected Outcome
+Identify the optimal setup or conditions that result in:
+1. Lowest stop rate
+2. Highest efficiency in the shot peening process
+3. Best overall performance of unmanned Bobins
+
+### Potential Factors to Consider
+- Bobin configuration
+- Shot peening parameters
+- Environmental factors
+- Time of day variations
+
+### Next Steps
+- Analyze collected data
+- Identify patterns or correlations between setup and performance
+- Formulate recommendations for process improvement
+
+*Note: This is a fictional case study based on real experience for educational purposes only.*
