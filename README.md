@@ -4,7 +4,7 @@
 This repository is a curated collection of projects highlighting my journey as an associate AI developer and data scientist. While respecting data compliance and NDAs, I've recreated key concepts using dummy data to demonstrate my skills and problem-solving approaches.
 
 ## 🌟 Featured projects include:
-- Basic Python projects, more like a practice set: Iris & Titanic datasets for Zoho QuickML and AutoML quality testing
+- Standard-datasets: Basic Python projects, more like a practice set: Iris & Titanic datasets for Zoho QuickML and AutoML quality testing
 - FS社:
 - R社:
 - TS社:
@@ -24,5 +24,5 @@ Each project folder contains:
 Feel free to explore, and don't hesitate to reach out with any questions or collaboration ideas!
 
 ## 📬 Contact:
-Phone number: 080-4858-0506
-Email: soujanyadashdola@gmail.com
+- Phone number: 080-4858-0506
+- Email: soujanyadashdola@gmail.com
