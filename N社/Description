@@ -1,0 +1,63 @@
+# Machine Monitoring System at Nasu Seiki
+
+## Project Overview
+
+Implementing a real-time monitoring system for machine operations at 那須精機 (Nasu Seiki) using a three-color sensor system.
+
+## Sensor System
+
+* **Green**: Work in progress (稼働中)
+* **Yellow**: Standby (中断)
+* **Red**: Stopped (停止)
+
+## Monitoring Parameters
+
+1. Stop rates
+2. Working hours
+3. Operational status timings
+
+## Data Collection Timeframes
+
+* Daily
+* Hourly
+* Monthly
+* Yearly
+
+## Objective
+
+Develop a real-time dashboard to monitor and detect abnormal machine stoppages, enabling quick response and improving overall efficiency.
+
+## Key Features
+
+1. **Real-time Status Visualization**: 
+   - Instant color-coded representation of machine status
+
+2. **Multi-timeframe Analysis**:
+   - Ability to view and analyze data across various time periods
+
+3. **Abnormality Detection**:
+   - Algorithms to identify unusual patterns in machine operations
+
+4. **Performance Metrics**:
+   - Calculation and display of key performance indicators
+
+## Expected Outcomes
+
+1. Reduced downtime through early detection of issues
+2. Improved machine utilization rates
+3. Data-driven decision making for maintenance and operations
+4. Enhanced overall productivity
+
+## Next Steps
+
+1. Implement the sensor system on all relevant machines
+2. Develop and refine the real-time dashboard
+3. Train staff on system usage and data interpretation
+4. Establish protocols for responding to detected abnormalities
+5. Continuously iterate and improve based on collected data and user feedback
+
+## Potential Future Enhancements
+
+* Integration with predictive maintenance systems
+* Machine learning algorithms for advanced pattern recognition
+* Mobile alerts for critical issues
