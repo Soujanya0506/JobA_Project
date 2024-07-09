@@ -4,9 +4,13 @@
 This repository is a curated collection of projects highlighting my journey as an associate AI developer and data scientist. While respecting data compliance and NDAs, I've recreated key concepts using dummy data to demonstrate my skills and problem-solving approaches.
 
 ## 🌟 Featured projects include:
-- [Project 1: Brief description]
-- [Project 2: Brief description]
-- [Project 3: Brief description]
+- Basic Python projects, more like a practice set: Iris & Titanic datasets for Zoho QuickML and AutoML quality testing
+- FS社:
+- R社:
+- TS社:
+- YI社:
+- TMS社:
+- NS社:
 
 ## 🙏 Acknowledgments:
 Special thanks to my mentors Kumagai-san, Zhao-san, and Iizuka-san for their invaluable guidance and alternative perspectives that have shaped my understanding and coding practices.
@@ -20,4 +24,5 @@ Each project folder contains:
 Feel free to explore, and don't hesitate to reach out with any questions or collaboration ideas!
 
 ## 📬 Contact:
-[Your preferred contact method or link to your profile]
+Phone number: 080-4858-0506
+Email: soujanyadashdola@gmail.com
